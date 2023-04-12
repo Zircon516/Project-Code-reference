@@ -1,2 +1,2 @@
 # Project-Code-reference
-doing some project and try to rectify the codeing model
+doing some projects and try to rectify the code and make it better
